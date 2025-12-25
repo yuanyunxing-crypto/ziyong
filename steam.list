@@ -534,19 +534,4 @@ full:cache5-tyo1.steamcontent.com
 full:cache6-tyo1.steamcontent.com
 full:cache9-gru1.steamcontent.com
 
-# Steam - 游戏下载(非中国下载区)[akamai]
-full:steampipe.akamaized.net
-full:steampipe-kr.akamaized.net
-full:steampipe-partner.akamaized.net
-full:akamai.cdn.steampipe.steamcontent.com
 
-# Steam - 游戏下载(非中国下载区)[Fastly]
-full:fastly.cdn.steampipe.steamcontent.com
-
-# Steam - 游戏下载(非中国下载区)[网宿(国际)]
-full:steam.eca.qtlglb.com
-full:steam.naeu.qtlglb.com
-full:steam.ru.qtlglb.com
-
-# Steam - 游戏下载(非中国下载区)[edgecast]
-full:edge.steam-dns.top.comcast.net
