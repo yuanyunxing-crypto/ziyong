@@ -105,30 +105,31 @@ full:uplaypc-s-ubisoft.cdn.ubionline.com.cn @cn
 full:origin-a.akamaihd.net
 
 # EA Desktop - 游戏下载[Cloudflare-CDN]
-full:prod.cloudflare.cdn.ea.com
+prod.cloudflare.cdn.ea.com
 
 # Steam - 游戏下载(中国区)[新流云]
-full:dl.steam.clngaa.com @cn
+dl.steam.clngaa.com @cn
 
 # Steam - 游戏下载(中国区)[白山云]
-full:st.dl.eccdnx.com @cn
-full:st.dl.bscstorage.net @cn
-full:trts.baishancdnx.cn @cn
-full:st-bak.viv.wanwang.space @cn
+st.dl.eccdnx.com @cn
+st.dl.bscstorage.net @cn
+trts.baishancdnx.cn @cn
+st-bak.viv.wanwang.space @cn
 
 # Steam - 游戏下载(中国区)[阿里云]
-full:cdn-ali.content.steamchina.com @cn
-full:xz.pphimalayanrt.com @cn
-full:lv.queniujq.cn @cn
-full:alibaba.cdn.steampipe.steamcontent.com @cn
+cdn-ali.content.steamchina.com @cn
+xz.pphimalayanrt.com @cn
+lv.queniujq.cn @cn
+alibaba.cdn.steampipe.steamcontent.com @cn
 
 # Steam - 游戏下载(中国区)[网宿]
-full:cdn-ws.content.steamchina.com @cn
+cdn-ws.content.steamchina.com @cn
 
 # Steam - 游戏下载(中国区)[腾讯云]
-full:cdn-qc.content.steamchina.com @cn
+cdn-qc.content.steamchina.com @cn
 
 # Steam - 游戏下载/社区实况直播(非中国下载区)[Valve]
+steamcontent.com
 full:cache10-atl3.steamcontent.com
 full:cache10-fra1.steamcontent.com
 full:cache10-fra2.steamcontent.com
@@ -453,85 +454,85 @@ full:cache8-sto1.steamcontent.com
 full:cache9-sto1.steamcontent.com
 full:cache10-sto1.steamcontent.com
 full:cache11-ord1.steamcontent.com
-full:cache12-ord1.steamcontent.com
-full:cache13-ord1.steamcontent.com
-full:cache14-ord1.steamcontent.com
-full:cache15-ord1.steamcontent.com
-full:cache16-ord1.steamcontent.com
-full:cache17-ord1.steamcontent.com
-full:cache18-ord1.steamcontent.com
-full:cache19-ord1.steamcontent.com
-full:cache20-ord1.steamcontent.com
-full:cache1-man1.steamcontent.com
-full:cache2-man1.steamcontent.com
-full:cache8-sea1.steamcontent.com
-full:cache10-sea1.steamcontent.com
-full:cache11-sea1.steamcontent.com
-full:cache12-sea1.steamcontent.com
-full:cache19-lhr1.steamcontent.com
-full:cache20-lhr1.steamcontent.com
-full:cache21-lhr1.steamcontent.com
-full:cache22-lhr1.steamcontent.com
-full:cache23-lhr1.steamcontent.com
-full:cache24-lhr1.steamcontent.com
-full:cache25-lhr1.steamcontent.com
-full:cache26-lhr1.steamcontent.com
-full:cache27-lhr1.steamcontent.com
-full:cache28-lhr1.steamcontent.com
-full:cache29-lhr1.steamcontent.com
-full:cache30-lhr1.steamcontent.com
-full:cache31-lhr1.steamcontent.com
-full:cache32-lhr1.steamcontent.com
-full:cache33-lhr1.steamcontent.com
-full:cache34-lhr1.steamcontent.com
-full:cache35-lhr1.steamcontent.com
-full:cache1-tyo1.steamcontent.com
-full:cache2-tyo1.steamcontent.com
-full:cache1-tyo2.steamcontent.com
-full:cache2-tyo2.steamcontent.com
-full:cache3-tyo2.steamcontent.com
-full:cache4-tyo2.steamcontent.com
-full:cache9-ams1.steamcontent.com
-full:cache10-ams1.steamcontent.com
-full:cache11-ams1.steamcontent.com
-full:cache12-ams1.steamcontent.com
-full:cache13-ams1.steamcontent.com
-full:cache14-ams1.steamcontent.com
-full:cache15-ams1.steamcontent.com
-full:cache16-ams1.steamcontent.com
-full:cache17-ams1.steamcontent.com
-full:cache18-ams1.steamcontent.com
-full:cache11-sgp1.steamcontent.com
-full:cache12-sgp1.steamcontent.com
-full:cache1-okc1.steamcontent.com
-full:cache2-okc1.steamcontent.com
-full:cache3-okc1.steamcontent.com
-full:cache4-okc1.steamcontent.com
-full:cache5-okc1.steamcontent.com
-full:cache6-okc1.steamcontent.com
-full:cache7-okc1.steamcontent.com
-full:cache8-okc1.steamcontent.com
-full:cache9-vie1.steamcontent.com
-full:cache10-vie1.steamcontent.com
-full:cache11-vie1.steamcontent.com
-full:cache12-vie1.steamcontent.com
-full:cache9-sto2.steamcontent.com
-full:cache10-sto2.steamcontent.com
-full:cache1-lim1.steamcontent.com
-full:cache2-lim1.steamcontent.com
-full:cache1-dxb1.steamcontent.com
-full:cache2-dxb1.steamcontent.com
-full:cache10-gru1.steamcontent.com
-full:cache12-atl1.steamcontent.com
-full:cache13-atl1.steamcontent.com
-full:cache17-fra1.steamcontent.com
-full:cache18-fra1.steamcontent.com
-full:cache19-fra1.steamcontent.com
-full:cache20-fra1.steamcontent.com
-full:cache3-tyo1.steamcontent.com
-full:cache4-tyo1.steamcontent.com
-full:cache5-tyo1.steamcontent.com
-full:cache6-tyo1.steamcontent.com
-full:cache9-gru1.steamcontent.com
+cache12-ord1.steamcontent.com
+cache13-ord1.steamcontent.com
+cache14-ord1.steamcontent.com
+cache15-ord1.steamcontent.com
+cache16-ord1.steamcontent.com
+cache17-ord1.steamcontent.com
+cache18-ord1.steamcontent.com
+cache19-ord1.steamcontent.com
+cache20-ord1.steamcontent.com
+cache1-man1.steamcontent.com
+cache2-man1.steamcontent.com
+cache8-sea1.steamcontent.com
+cache10-sea1.steamcontent.com
+cache11-sea1.steamcontent.com
+cache12-sea1.steamcontent.com
+cache19-lhr1.steamcontent.com
+cache20-lhr1.steamcontent.com
+cache21-lhr1.steamcontent.com
+cache22-lhr1.steamcontent.com
+cache23-lhr1.steamcontent.com
+cache24-lhr1.steamcontent.com
+cache25-lhr1.steamcontent.com
+cache26-lhr1.steamcontent.com
+cache27-lhr1.steamcontent.com
+cache28-lhr1.steamcontent.com
+cache29-lhr1.steamcontent.com
+cache30-lhr1.steamcontent.com
+cache31-lhr1.steamcontent.com
+cache32-lhr1.steamcontent.com
+cache33-lhr1.steamcontent.com
+cache34-lhr1.steamcontent.com
+cache35-lhr1.steamcontent.com
+cache1-tyo1.steamcontent.com
+cache2-tyo1.steamcontent.com
+cache1-tyo2.steamcontent.com
+cache2-tyo2.steamcontent.com
+cache3-tyo2.steamcontent.com
+cache4-tyo2.steamcontent.com
+cache9-ams1.steamcontent.com
+cache10-ams1.steamcontent.com
+cache11-ams1.steamcontent.com
+cache12-ams1.steamcontent.com
+cache13-ams1.steamcontent.com
+cache14-ams1.steamcontent.com
+cache15-ams1.steamcontent.com
+cache16-ams1.steamcontent.com
+cache17-ams1.steamcontent.com
+cache18-ams1.steamcontent.com
+cache11-sgp1.steamcontent.com
+cache12-sgp1.steamcontent.com
+cache1-okc1.steamcontent.com
+cache2-okc1.steamcontent.com
+cache3-okc1.steamcontent.com
+cache4-okc1.steamcontent.com
+cache5-okc1.steamcontent.com
+cache6-okc1.steamcontent.com
+cache7-okc1.steamcontent.com
+cache8-okc1.steamcontent.com
+cache9-vie1.steamcontent.com
+cache10-vie1.steamcontent.com
+cache11-vie1.steamcontent.com
+cache12-vie1.steamcontent.com
+cache9-sto2.steamcontent.com
+cache10-sto2.steamcontent.com
+cache1-lim1.steamcontent.com
+cache2-lim1.steamcontent.com
+cache1-dxb1.steamcontent.com
+cache2-dxb1.steamcontent.com
+cache10-gru1.steamcontent.com
+fcache12-atl1.steamcontent.com
+fcache13-atl1.steamcontent.com
+fcache17-fra1.steamcontent.com
+fcache18-fra1.steamcontent.com
+cache19-fra1.steamcontent.com
+cache20-fra1.steamcontent.com
+cache3-tyo1.steamcontent.com
+cache4-tyo1.steamcontent.com
+cache5-tyo1.steamcontent.com
+cache6-tyo1.steamcontent.com
+cache9-gru1.steamcontent.com
 
 
