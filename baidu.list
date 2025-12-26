@@ -1,0 +1,6 @@
+  - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-SUFFIX,baidu.cn,DIRECT
+  - DOMAIN-SUFFIX,bdstatic.com,DIRECT
+  - DOMAIN-SUFFIX,bdimg.com,DIRECT
+  - DOMAIN-SUFFIX,baidubce.com,DIRECT
+  - DOMAIN-SUFFIX,duapps.com,DIRECT
