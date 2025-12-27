@@ -1,6 +1,15 @@
-- DOMAIN,steampowered.com
-- DOMAIN,steamcommunity.com
-- DOMAIN,steamstatic.com
-- DOMAIN,media.steampowered.com
-- DOMAIN,media4.steampowered.com
-- DOMAIN,repo.steampowered.com
+DOMAIN,steampowered.com
+DOMAIN,steamcommunity.com
+DOMAIN,steamstatic.com
+DOMAIN,media.steampowered.com
+DOMAIN,media4.steampowered.com
+DOMAIN,repo.steampowered.com
+DOMAIN,steamstatic.com
+DOMAIN,steamcdn.com
+DOMAIN,images.akamai.steamusercontent.com
+DOMAIN,clientconfig.akamai.steamstatic.com
+DOMAIN,store.akamai.steamstatic.com
+DOMAIN,cdn.akamai.steamstatic.com
+DOMAIN,steamcommunity.com
+DOMAIN,steam-chat.com
+DOMAIN,steamdb.info
