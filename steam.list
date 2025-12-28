@@ -1,9 +1,5 @@
-DOMAIN-SUFFIX,store.steampowered.com
-DOMAIN-SUFFIX,help.steampowered.com
-DOMAIN-SUFFIX,login.steampowered.com
-DOMAIN-SUFFIX,steampipe.steamcontent.com
-DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,store.steamchina.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampipe.steamcontent.com
+DOMAIN-SUFFIX,steamstatic.com
