@@ -1,16 +1,6 @@
-DOMAIN,steampowered.com
-DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,media.steampowered.com
 DOMAIN-SUFFIX,media4.steampowered.com
 DOMAIN-SUFFIX,repo.steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
-DOMAIN-SUFFIX,steamcdn.com
-DOMAIN-SUFFIX,images.akamai.steamusercontent.com
-DOMAIN-SUFFIX,clientconfig.akamai.steamstatic.com
-DOMAIN-SUFFIX,store.akamai.steamstatic.com
-DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamdb.info
-DOMAIN-SUFFIX,steamcommunity.com
