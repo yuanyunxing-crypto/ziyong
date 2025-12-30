@@ -26,6 +26,8 @@ DOMAIN,cdn-ws.content.steamchina.com
 DOMAIN,cdn-qc.content.steamchina.com
 DOMAIN,cdn-ali.content.steamchina.com
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+DOMAIN-SUFFIX,amap.com,DIRECT
+DOMAIN-SUFFIX,autonavi.com,DIRECT
 
 #DoT/DoH
 DOMAIN,dns.alidns.com
