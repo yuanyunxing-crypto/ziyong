@@ -30,9 +30,6 @@ DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN,wpad
 
-#亚马逊可以根据自己实际业务调整
-DOMAIN-SUFFIX,amazon.com
-
 #DoT/DoH
 DOMAIN,dns.alidns.com
 DOMAIN,doh.pub
