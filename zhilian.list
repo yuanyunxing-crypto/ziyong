@@ -30,7 +30,6 @@ DOMAIN,cdn-ali.content.steamchina.com
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
-DOMAIN,wpad
 
 #DoT/DoH
 DOMAIN,dns.alidns.com
