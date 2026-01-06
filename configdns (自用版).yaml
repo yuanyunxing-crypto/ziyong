@@ -120,6 +120,8 @@ dns:
     - https://8.8.8.8/dns-query#RULES&ecs=223.5.5.0/24
   fake-ip-filter:
       - "geoip:private"
+      - "geosite:category-game-platforms-download"
+      - "geosite:geolocation-!cn@cn"
       - "localhost"
       - "time.*"
       - "ntp.*"
