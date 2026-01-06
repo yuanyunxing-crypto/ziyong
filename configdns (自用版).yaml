@@ -171,6 +171,8 @@ proxy-groups:
 
 # 规则匹配
 rules:
+  - RULE-SET,BanProgramAD,REJECT
+  - RULE-SET,BanAD,REJECT
   - RULE-SET,chuhaizhiding,固定设备节点
   - RULE-SET,cn_domain,DIRECT
   - RULE-SET,cn_ip,DIRECT  
@@ -186,6 +188,7 @@ rules:
   - RULE-SET,youtube_domain,📹 YouTube
   - RULE-SET,google_domain,🍀 Google
   - RULE-SET,apple_domain,DIRECT
+  - RULE-SET,game-guoneixiazai,DIRECT
   - RULE-SET,steamguowai,🎮 steam国外
   - RULE-SET,steam_cn,🎮 steam
   - RULE-SET,tiktok_domain,🎵 TikTok
@@ -238,6 +241,9 @@ rule-providers:
   gfw_domain.list: { <<: *class, url: "https://ghfast.top/https://raw.githubusercontent.com/yuanyunxing-crypto/ziyong/refs/heads/main/gfw_domain_suffix.list"}
   pt: { <<: *class, url: "https://raw.githubusercontent.com/yuanyunxing-crypto/ziyong/refs/heads/main/PT.list"}
   chuhaizhiding: { <<: *class, url: "https://raw.githubusercontent.com/yuanyunxing-crypto/ziyong/refs/heads/main/chuhaizhiding.list"}
+  game-guoneixiazai: { <<: *class, url: "https://raw.githubusercontent.com/yuanyunxing-crypto/ziyong/refs/heads/main/game-guoneixiazai.list"}
+  BanProgramAD: { <<: *class, url: "https://raw.githubusercontent.com/yuanyunxing-crypto/ziyong/refs/heads/main/BanProgramAD.list"}
+  BanAD: { <<: *class, url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list"}
   
   private_ip: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.mrs"}
   cn_ip: { <<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.mrs"}
