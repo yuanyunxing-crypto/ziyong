@@ -4,8 +4,8 @@
 # 跑裸核用户请自行去掉下方控制面板模块的注释。
 # 机场订阅
 proxy-providers:
-  tj-1.6t:
-    url: "https://sub-route.bxy.re/api/v1/client/subscr2da4131860df67af2e8"
+  订阅地址 1:
+    url: "订阅地址 1"
     type: http
     interval: 86400
     health-check:
@@ -14,8 +14,8 @@ proxy-providers:
       interval: 300
     proxy: 直连
 
-  Airport1:
-    url: "https://www.c7sugkhg556.org/kgcclmdl/s6vbbyOxmScwEvLT2rQuIIE3giQWklRxDZvK8YZB0S8y8TTu0zGM0fY?b2m4=1"
+  订阅地址 2:
+    url: " 订阅地址 2"
     type: http
     interval: 86400
     health-check:
@@ -24,8 +24,8 @@ proxy-providers:
       interval: 300
     proxy: 直连
 
-  duobao 每月1tb:
-    url: "https://dbsub2.whtjdasha.com/s/815d17500a714857f15fa3e39b"
+  订阅地址 3:
+    url: " 订阅地址 3"
     type: http
     interval: 86400
     health-check:
@@ -37,9 +37,9 @@ proxy-providers:
 
 use-all-proxy-providers: &use-all-proxy-providers
   use:
-    - Airport1
-    - tj-1.6t
-    - duobao 每月1tb
+    - 订阅地址 1
+    - 订阅地址 2
+    - 订阅地址 3
 
 # 节点信息
 proxies:
