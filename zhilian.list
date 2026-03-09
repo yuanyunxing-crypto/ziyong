@@ -216,5 +216,6 @@ DOMAIN-SUFFIX,stun.fitauto.ru
   #################### 科研网站，不允许代理访问
 DOMAIN-SUFFIX,ncbi.nlm.nih.gov
 DOMAIN-SUFFIX,crossref.org
+DOMAIN-SUFFIX,ubuntu.com
 
 
